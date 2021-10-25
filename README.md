@@ -20,6 +20,14 @@
   - JavaScript
     - React
 
+# Field of Interest
+- AI
+- Web Development
+- Web Design
+- Video Editing
+- Logo Creation
+- E-sports
+
 # Other
 ## Hobby
   - Game(FPS, Battle Royale)
