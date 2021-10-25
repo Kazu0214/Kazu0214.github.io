@@ -33,6 +33,9 @@
  - GCI2021summer
  - 技育展2021Student judges
 
+ ## Link
+ - [Github pages](https://kazu0214.github.io/)
+
 ## Contact
 ### email
 - cakn1200005@gn.iwasaki.ac.jp
