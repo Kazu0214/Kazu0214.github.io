@@ -9,8 +9,7 @@
 - Department: Practical AI
 - Course: AI System
 - Grade: 4-year system
-- Twiter
-    - [@Nkazu0214](https://twitter.com/NKazu0214)
+- Twitter: [@Nkazu0214](https://twitter.com/NKazu0214)
 
 # Main technologies used
 ## Programming Language
@@ -34,7 +33,9 @@
  - 技育展2021Student judges
 
  # Link
- - [Github pages](https://kazu0214.github.io/)
+ - [GitHub](https://github.com/Kazu0214)
+ - [GitHub pages](https://kazu0214.github.io/)
+ - [Twitter](https://twitter.com/NKazu0214)
 
 # Contact
 ## email
