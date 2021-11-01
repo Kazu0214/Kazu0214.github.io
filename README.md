@@ -3,7 +3,6 @@
 ## General Information
 - Name: Kazuhisa Nemoto
 - GitHub Name: [Kazu0214](https://github.com/Kazu0214)
-
 - Birthplace: Chiba, Japan
 - Affiliation: Information Science College
 - Department: Practical AI
@@ -27,6 +26,7 @@
 - Video Editing
 - Logo Creation
 - E-sports
+- marketing
 
 # Other
 ## Hobby
@@ -39,6 +39,7 @@
 ## 2021
  - GCI2021summer
  - 技育展2021Student judges
+ - 2021 JPHACKS
 
 # Link
  - [GitHub](https://github.com/Kazu0214)
@@ -46,6 +47,5 @@
  - [Twitter](https://twitter.com/NKazu0214)
 
 # Contact
-## email
 - cakn1200005@gn.iwasaki.ac.jp
 - [@Nkazu0214](https://twitter.com/NKazu0214)
