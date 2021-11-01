@@ -1,5 +1,3 @@
-# Welcome to GitHub Pages
-
 ## General Information
 - Name: Kazuhisa Nemoto
 - GitHub Name: [Kazu0214](https://github.com/Kazu0214)
