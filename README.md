@@ -12,11 +12,28 @@
 # Main technologies used
 ## Programming Language
   - Python
+    - PyTorch
+    - Keras
+    - TensorFlow
+    - scikit-learn
+    - django
   - PHP
-  - Java
   - MATLAB
   - JavaScript
     - React
+
+## OS used
+  - Windows
+  - macOS
+  - Ubuntu(WSL2)
+
+# Main design tools used
+## Adobe
+  - illustrator
+  - Photoshop
+  - Premiere Pro
+  - After Effects
+  - XD
 
 # Field of Interest
 - AI
@@ -39,6 +56,8 @@
  - GCI2021summer
  - 技育展2021Student judges
  - 2021 JPHACKS
+## 2022
+ - Crowdfunding Success
 
 # Link
  - [GitHub](https://github.com/Kazu0214)
