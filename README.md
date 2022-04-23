@@ -64,7 +64,9 @@
  - [GitHub](https://github.com/Kazu0214)
  - [GitHub pages](https://kazu0214.github.io/)
  - [Twitter](https://twitter.com/NKazu0214)
+ - [Twitter(Game)](https://twitter.com/Credo12345)
 
 # Contact
 - cakn1200005@gn.iwasaki.ac.jp
 - [@Nkazu0214](https://twitter.com/NKazu0214)
+- [@Credo12345](https://twitter.com/Credo12345)
