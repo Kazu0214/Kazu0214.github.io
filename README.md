@@ -34,6 +34,10 @@
   - Premiere Pro
   - After Effects
   - XD
+  
+ # No code tools used
+ - STUDIO
+ - Wix
 
 # Field of Interest
 - AI
