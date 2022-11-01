@@ -64,6 +64,9 @@
 ## 2022
  - Crowdfunding Success
 
+# Internship Experience
+- モバイル・インターネットキャピタル株式会社
+
 # Link
  - [GitHub](https://github.com/Kazu0214)
  - [GitHub pages](https://kazu0214.github.io/)
